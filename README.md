@@ -11,6 +11,8 @@ While we did find correlation between our variables of interest and the product 
 <br/>
 Despite these hurdles, I learned a lot about visualization in R using ggplot and the process of machine learning modelling, further accelerating my proficiency as a data scientist. <br/>
 <br/>
+Included in the README for this repository are links to the R Markdown our team performed our analysis within, a PowerPoint presentation of our findings, and an in-depth report of our project processes.<br/>
+<br/>
 If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive.
 
 <h2>Datasets Used</h2>

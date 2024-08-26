@@ -15,7 +15,7 @@ Despite these hurdles, I learned a lot about visualization in R using ggplot and
 <br/>
 Included in the README for this repository are links to the R Markdown our team performed our analysis within, a PowerPoint presentation of our findings, and an in-depth report of our project processes. I have additionally included links to my individual technical report and a technical demonstration R Markdown. Both of these documents detail my individual contribution to the project.<br/>
 <br/>
-If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive.
+If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive. Alternatively, you can download the raw files directly. 
 
 <h2>Datasets Used</h2>
 

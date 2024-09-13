@@ -1,7 +1,7 @@
 # Regional-Analysis-of-a-Supermarket
 
  ### [R Markdown](https://github.com/eericson2005/Regional-Analysis-of-a-Supermarket/blob/f686101e54b9bc7c6c3b50192631237a9ce7b7f0/team3_midterm_EDA.pdf)
- ### [Powerpoint Presentation](https://uark-my.sharepoint.com/:p:/g/personal/ericson_uark_edu/EaJUtJTxYsxInGNWQWtnTBMBujAy6LnD5afrdqhomADEWg?e=94m7B3)
+ ### [Powerpoint Presentation](https://github.com/eericson2005/Regional-Analysis-of-a-Supermarket/blob/main/DASC_1223H_Midterm_Project_PowerPoint.pdf)
  ### [Report](https://github.com/eericson2005/Regional-Analysis-of-a-Supermarket/blob/99284eaafa5a9e8071ac7fa37f6a2962e91071af/DASC_1223_MTTP_Team3.pdf)
  ### [Individual Technical Report](https://github.com/eericson2005/Regional-Analysis-of-a-Supermarket/blob/164fb5697c892e0ddac5b960d577839e3d31aba1/DASC_1223H_MTTP_Technical_Report_Ericson.pdf)
  ### [Individual Technical Demonstration](https://github.com/eericson2005/Regional-Analysis-of-a-Supermarket/blob/91309fb0ffb81ef1ea4596db5cb31e77fe7970eb/Technical-Demonstrations.pdf)
